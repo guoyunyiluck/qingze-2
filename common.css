@@ -1,11 +1,11 @@
 .place1{
     left: 580px;
-    top: 330px;
+    top: 310px;
     position:absolute;
 }
 .place2{
     left: 350px;
-    top: 350px;
+    top: 330px;
     position:absolute;
 }
 .place3{
@@ -21,7 +21,7 @@
 .intput-text1{
     position:absolute;
     left:350px;
-    top:175px;
+    top:155px;
 }
 .text-photo{
     position:absolute;
