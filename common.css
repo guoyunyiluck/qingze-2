@@ -1,0 +1,34 @@
+.place1{
+    left: 580px;
+    top: 330px;
+    position:absolute;
+}
+.place2{
+    left: 350px;
+    top: 350px;
+    position:absolute;
+}
+.place3{
+    left: 590px;
+    top: 450px;
+    position:absolute;
+}
+.place4{
+    left: 535px;
+    top: 435px;
+    position:absolute;
+}
+.intput-text1{
+    position:absolute;
+    left:350px;
+    top:175px;
+}
+.text-photo{
+    position:absolute;
+    left: 750px;
+    top: 200px;
+    margin:0 auto;
+    width:20px;
+    border:none;
+    outline: none;
+}
